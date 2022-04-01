@@ -1,3 +1,5 @@
 .idea
-leetcode.iml
+*.iml
 *.class
+**/lib/*
+**/out/**
